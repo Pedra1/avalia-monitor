@@ -35,16 +35,179 @@
     66490,
     64577,
     64576,
+    70219,
+    70220,
+    70221,
+    70222,
+    70223,
+    70224,
+    70225,
+    70226,
+    70227,
+    70228,
+    70229,
+    70230,
     67415,
     67416,
+    70231,
+    70232,
+    70233,
     64609
   ],
   "known_links": [
+    "55f9e321-5369-4c75-a86f-016e21491ab0",
+    "6e8b5492-ea7b-4979-a775-f4201b85e8aa",
     "a542ddbf-8915-4a5d-8074-843b02a2f1f4",
     "50662cde-9dbf-4a42-b123-772a2d3b8039",
-    "4e348e09-d89a-4104-8723-68b87afc00f8",
-    "55f9e321-5369-4c75-a86f-016e21491ab0"
+    "4e348e09-d89a-4104-8723-68b87afc00f8"
   ],
-  "history": [],
-  "last_checked": "04/11/2026 09:17:03"
+  "history": [
+    {
+      "type": "publicacao",
+      "item": {
+        "id": 70230,
+        "nome": "04/11/2026 - Anexo I do Edital de convocação para o Teste de Aptidão Física - Concurso Público nº 002/2026",
+        "url": "https://arquivos-site.avalia.org.br/publicacoes/4671f471-5eaf-47e2-afeb-7dd7959141c1.pdf"
+      },
+      "detected_at": "04/11/2026 17:35:43"
+    },
+    {
+      "type": "publicacao",
+      "item": {
+        "id": 70229,
+        "nome": "04/11/2026 - Edital de convocação para o Teste de Aptidão Física - Concurso Público nº 002/2026",
+        "url": "https://arquivos-site.avalia.org.br/publicacoes/5121d9be-6a8e-4f81-801d-3bdcb72e5242.pdf"
+      },
+      "detected_at": "04/11/2026 17:35:43"
+    },
+    {
+      "type": "publicacao",
+      "item": {
+        "id": 70228,
+        "nome": "04/11/2026 - Anexo IV do Edital de Classificação para prosseguimento no certame - Concurso Público nº 002/2026",
+        "url": "https://arquivos-site.avalia.org.br/publicacoes/090e3f84-3ca1-43cb-8b30-12b04f5f61f7.pdf"
+      },
+      "detected_at": "04/11/2026 17:35:43"
+    },
+    {
+      "type": "publicacao",
+      "item": {
+        "id": 70227,
+        "nome": "04/11/2026 - Anexo III do Edital de Classificação para prosseguimento no certame - Concurso Público nº 002/2026",
+        "url": "https://arquivos-site.avalia.org.br/publicacoes/c8122ffb-3581-4deb-99de-4b1adf3d4823.pdf"
+      },
+      "detected_at": "04/11/2026 17:35:43"
+    },
+    {
+      "type": "publicacao",
+      "item": {
+        "id": 70226,
+        "nome": "04/11/2026 - Anexo II do Edital de Classificação para prosseguimento no certame - Concurso Público nº 002/2026",
+        "url": "https://arquivos-site.avalia.org.br/publicacoes/0398c46c-222c-45eb-89dd-5a3e61db28a5.pdf"
+      },
+      "detected_at": "04/11/2026 17:35:43"
+    },
+    {
+      "type": "publicacao",
+      "item": {
+        "id": 70225,
+        "nome": "04/11/2026 - Anexo I do Edital de Classificação para prosseguimento no certame - Concurso Público nº 002/2026",
+        "url": "https://arquivos-site.avalia.org.br/publicacoes/57e73685-8c8b-4448-b5f1-59a6d19336c6.pdf"
+      },
+      "detected_at": "04/11/2026 17:35:43"
+    },
+    {
+      "type": "publicacao",
+      "item": {
+        "id": 70224,
+        "nome": "04/11/2026 - Edital de Classificação para prosseguimento no certame - Concurso Público nº 002/2026",
+        "url": "https://arquivos-site.avalia.org.br/publicacoes/dbaa7591-5530-4a3b-ab1d-f7f13e8aa33a.pdf"
+      },
+      "detected_at": "04/11/2026 17:35:43"
+    },
+    {
+      "type": "publicacao",
+      "item": {
+        "id": 70223,
+        "nome": "04/11/2026 - Anexo II do Edital de resultado da Heteroidentificação e Análise Documental pós-recursos - Concurso Público nº 002/2026",
+        "url": "https://arquivos-site.avalia.org.br/publicacoes/a93a44af-6ad8-4b55-b832-1531e26cfbf0.pdf"
+      },
+      "detected_at": "04/11/2026 17:35:43"
+    },
+    {
+      "type": "publicacao",
+      "item": {
+        "id": 70222,
+        "nome": "04/11/2026 - Anexo I do Edital de resultado da Heteroidentificação e Análise Documental pós-recursos - Concurso Público nº 002/2026",
+        "url": "https://arquivos-site.avalia.org.br/publicacoes/80e21401-98d6-499b-9d65-dbed0cbef088.pdf"
+      },
+      "detected_at": "04/11/2026 17:35:43"
+    },
+    {
+      "type": "publicacao",
+      "item": {
+        "id": 70221,
+        "nome": "04/11/2026 - Edital de resultado da Heteroidentificação e Análise Documental pós-recursos - Concurso Público nº 002/2026",
+        "url": "https://arquivos-site.avalia.org.br/publicacoes/523f37c4-14e8-45aa-af91-de68814a13c6.pdf"
+      },
+      "detected_at": "04/11/2026 17:35:43"
+    },
+    {
+      "type": "publicacao",
+      "item": {
+        "id": 70220,
+        "nome": "04/11/2026 - Anexo Único do Edital de resultado da Perícia Médica pós-recursos - Concurso Público nº 002/2026",
+        "url": "https://arquivos-site.avalia.org.br/publicacoes/745b87a8-7999-4a17-bfca-86264a5e50a5.pdf"
+      },
+      "detected_at": "04/11/2026 17:35:43"
+    },
+    {
+      "type": "publicacao",
+      "item": {
+        "id": 70219,
+        "nome": "04/11/2026 - Edital de resultado da Perícia Médica pós-recursos - Concurso Público nº 002/2026",
+        "url": "https://arquivos-site.avalia.org.br/publicacoes/0e983fc7-51bc-4579-a1b6-6fc2dda6233f.pdf"
+      },
+      "detected_at": "04/11/2026 17:35:43"
+    },
+    {
+      "type": "publicacao",
+      "item": {
+        "id": 70231,
+        "nome": "04/11/2026 - Anexo II do Edital de convocação para o Teste de Aptidão Física - Concurso Público nº 002/2026",
+        "url": "https://arquivos-site.avalia.org.br/publicacoes/ed466bfd-162e-42f1-a43d-ed9979124ad7.pdf"
+      },
+      "detected_at": "04/11/2026 17:36:32"
+    },
+    {
+      "type": "publicacao",
+      "item": {
+        "id": 70232,
+        "nome": "04/11/2026 - Edital de convocação para entrega do Exame Toxicológico - Especialista em Assistência Penitenciária - Concurso Público nº 002/2026",
+        "url": "https://arquivos-site.avalia.org.br/publicacoes/7494b273-8da0-4f62-82ea-ef5e1393de04.pdf"
+      },
+      "detected_at": "04/11/2026 17:37:21"
+    },
+    {
+      "type": "publicacao",
+      "item": {
+        "id": 70233,
+        "nome": "04/11/2026 - Anexo Único do Edital de convocação para entrega do Exame Toxicológico - Especialista em Assistência Penitenciária - Concurso Público nº 002/2026",
+        "url": "https://arquivos-site.avalia.org.br/publicacoes/6e2e9d9b-2cb4-4685-a4ed-548b6e529201.pdf"
+      },
+      "detected_at": "04/11/2026 17:38:13"
+    },
+    {
+      "type": "link",
+      "item": {
+        "nome": "Consultar resposta do recurso contra o resultado da Reserva de Vagas",
+        "url": "https://link.avalia.org.br/open-link?identificador=6e8b5492-ea7b-4979-a775-f4201b85e8aa",
+        "identificador": "6e8b5492-ea7b-4979-a775-f4201b85e8aa",
+        "categoria": "Documentação",
+        "formularioPrincipal": false
+      },
+      "detected_at": "04/11/2026 17:39:00"
+    }
+  ],
+  "last_checked": "04/11/2026 18:12:02"
 }
