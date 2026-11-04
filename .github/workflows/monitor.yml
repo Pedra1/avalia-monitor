@@ -1,0 +1,43 @@
+name: Monitor Concurso Avalia 619
+
+on:
+  schedule:
+    # Executa a cada 15 minutos automaticamente na nuvem
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+    inputs:
+      duration_minutes:
+        description: 'Duracao do monitoramento continuo em minutos'
+        required: false
+        default: '350'
+
+permissions:
+  contents: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Executar Monitoramento na Nuvem
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            python cloud_monitor.py --duration 14 --interval 45
+          else
+            python cloud_monitor.py --duration ${{ github.event.inputs.duration_minutes || 350 }} --interval 45
+          fi
+
+      - name: Salvar novo estado no repositorio
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add state.json
+          git commit -m "Atualizar publicacoes detectadas [skip ci]" || echo "Nenhuma novidade"
+          git push || echo "Nada para enviar"

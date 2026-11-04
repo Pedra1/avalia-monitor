@@ -1,0 +1,53 @@
+{
+  "concurso_id": 619,
+  "nome_amigavel": "Polícia Penal RN - SEAD/RN (Concurso 619)",
+  "interval_seconds": 60,
+  "random_delay_jitter": 15,
+  "windows": {
+    "enabled": true,
+    "play_sound": true,
+    "descricao": "Notificação na área de trabalho do Windows e alarme sonoro (BEEP)"
+  },
+  "ntfy": {
+    "enabled": true,
+    "server": "https://ntfy.sh",
+    "topic": "avalia_concurso_619_alerta",
+    "priority": "urgent",
+    "descricao": "Push notification instantâneo no celular. Basta acessar https://ntfy.sh/SEU_TOPICO ou instalar o app ntfy (grátis, sem cadastro!)"
+  },
+  "telegram": {
+    "enabled": false,
+    "bot_token": "",
+    "chat_id": "",
+    "descricao": "Mensagem via Bot do Telegram (Token gerado no @BotFather e seu Chat ID no @userinfobot)"
+  },
+  "email": {
+    "enabled": false,
+    "smtp_host": "smtp.gmail.com",
+    "smtp_port": 587,
+    "smtp_user": "seu_email@gmail.com",
+    "smtp_pass": "sua_senha_de_app_aqui",
+    "from_email": "seu_email@gmail.com",
+    "to_email": "destinatario@email.com",
+    "use_tls": true,
+    "use_ssl": false,
+    "descricao": "Envio via E-mail SMTP (Gmail, Outlook, etc.). No Gmail use 'Senha de App'"
+  },
+  "discord": {
+    "enabled": false,
+    "webhook_url": "",
+    "descricao": "Webhook de canal no Discord para alertas com link direto"
+  },
+  "whatsapp": {
+    "enabled": false,
+    "phone": "+55...",
+    "apikey": "",
+    "descricao": "Mensagem via WhatsApp utilizando o serviço gratuito CallMeBot"
+  },
+  "webhook": {
+    "enabled": false,
+    "url": "",
+    "descricao": "Webhook genérico HTTP POST para Zapier, Make, n8n ou automações"
+  }
+}
+
