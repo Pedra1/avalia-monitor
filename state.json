@@ -18,6 +18,7 @@
     65071,
     65072,
     65073,
+    70450,
     69559,
     69560,
     67513,
@@ -59,12 +60,12 @@
   "known_links": [
     "50662cde-9dbf-4a42-b123-772a2d3b8039",
     "a542ddbf-8915-4a5d-8074-843b02a2f1f4",
-    "55f9e321-5369-4c75-a86f-016e21491ab0",
-    "6b19de6d-a500-464e-94ca-136d3f723dac",
     "5439de5d-28b8-49e0-b25a-f65b4713e457",
-    "4e348e09-d89a-4104-8723-68b87afc00f8",
+    "6b19de6d-a500-464e-94ca-136d3f723dac",
     "6e8b5492-ea7b-4979-a775-f4201b85e8aa",
-    "2003730f-a643-4598-a504-eb07a280564d"
+    "2003730f-a643-4598-a504-eb07a280564d",
+    "4e348e09-d89a-4104-8723-68b87afc00f8",
+    "55f9e321-5369-4c75-a86f-016e21491ab0"
   ],
   "history": [
     {
@@ -263,7 +264,16 @@
         "url": "https://arquivos-site.avalia.org.br/publicacoes/5bee50fe-1ef9-477d-9f22-f1615674f732.pdf"
       },
       "detected_at": "09/11/2026 21:15:09"
+    },
+    {
+      "type": "publicacao",
+      "item": {
+        "id": 70450,
+        "nome": "10/11/2026 - Nota Oficial - Teste de Aptidão Física - Concurso Público 002/2026",
+        "url": "https://arquivos-site.avalia.org.br/publicacoes/58a992f0-0089-4ed9-9bca-686c6aa09f4b.pdf"
+      },
+      "detected_at": "10/11/2026 19:11:31"
     }
   ],
-  "last_checked": "10/11/2026 12:01:01"
+  "last_checked": "10/11/2026 19:25:08"
 }
