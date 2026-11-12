@@ -10,6 +10,7 @@
     68247,
     68635,
     68636,
+    70813,
     68637,
     68638,
     66853,
@@ -55,17 +56,20 @@
     70231,
     70232,
     70233,
-    64609
+    70747,
+    64609,
+    70780
   ],
   "known_links": [
-    "5439de5d-28b8-49e0-b25a-f65b4713e457",
-    "a542ddbf-8915-4a5d-8074-843b02a2f1f4",
     "55f9e321-5369-4c75-a86f-016e21491ab0",
     "6b19de6d-a500-464e-94ca-136d3f723dac",
-    "4e348e09-d89a-4104-8723-68b87afc00f8",
-    "50662cde-9dbf-4a42-b123-772a2d3b8039",
     "2003730f-a643-4598-a504-eb07a280564d",
-    "6e8b5492-ea7b-4979-a775-f4201b85e8aa"
+    "5439de5d-28b8-49e0-b25a-f65b4713e457",
+    "4e348e09-d89a-4104-8723-68b87afc00f8",
+    "6e8b5492-ea7b-4979-a775-f4201b85e8aa",
+    "512f04a7-12cc-4509-bdce-2341253ecd4e",
+    "50662cde-9dbf-4a42-b123-772a2d3b8039",
+    "a542ddbf-8915-4a5d-8074-843b02a2f1f4"
   ],
   "history": [
     {
@@ -273,7 +277,45 @@
         "url": "https://arquivos-site.avalia.org.br/publicacoes/58a992f0-0089-4ed9-9bca-686c6aa09f4b.pdf"
       },
       "detected_at": "10/11/2026 19:11:31"
+    },
+    {
+      "type": "publicacao",
+      "item": {
+        "id": 70780,
+        "nome": "12/11/2026 - Edital de cumprimento Liminar - Convocação para o Teste de Aptidão Física - Concurso Público nº 002/2026",
+        "url": "https://arquivos-site.avalia.org.br/publicacoes/ffbacaa0-01b5-4f23-9cf9-937682339602.pdf"
+      },
+      "detected_at": "12/11/2026 23:44:09"
+    },
+    {
+      "type": "publicacao",
+      "item": {
+        "id": 70813,
+        "nome": "12/11/2026 - Edital de cumprimento Liminar - Alteração de resultado na Heteroidentificação - Concurso Público nº 002/2026",
+        "url": "https://arquivos-site.avalia.org.br/publicacoes/dd73b7ed-7c35-4a49-873d-d92c485f7167.pdf"
+      },
+      "detected_at": "12/11/2026 23:44:09"
+    },
+    {
+      "type": "publicacao",
+      "item": {
+        "id": 70747,
+        "nome": "12/11/2026 - Republicação do Edital de resultado das solicitações de adaptação para o Teste De Aptidão Física - Concurso Público nº 002/2026",
+        "url": "https://arquivos-site.avalia.org.br/publicacoes/b4f92ead-e1f7-4744-b897-6e6cc6709218.pdf"
+      },
+      "detected_at": "12/11/2026 23:44:09"
+    },
+    {
+      "type": "link",
+      "item": {
+        "nome": "Boletim de resultado das solicitações de Adaptações para o TAF",
+        "url": "https://link.avalia.org.br/open-link?identificador=512f04a7-12cc-4509-bdce-2341253ecd4e",
+        "identificador": "512f04a7-12cc-4509-bdce-2341253ecd4e",
+        "categoria": null,
+        "formularioPrincipal": false
+      },
+      "detected_at": "12/11/2026 23:44:09"
     }
   ],
-  "last_checked": "12/11/2026 18:30:34"
+  "last_checked": "12/11/2026 23:57:48"
 }
