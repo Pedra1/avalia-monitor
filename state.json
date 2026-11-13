@@ -38,6 +38,8 @@
     66490,
     64577,
     64576,
+    70979,
+    70978,
     70219,
     70220,
     70221,
@@ -61,15 +63,15 @@
     70780
   ],
   "known_links": [
-    "a542ddbf-8915-4a5d-8074-843b02a2f1f4",
-    "6b19de6d-a500-464e-94ca-136d3f723dac",
-    "6e8b5492-ea7b-4979-a775-f4201b85e8aa",
-    "4e348e09-d89a-4104-8723-68b87afc00f8",
     "2003730f-a643-4598-a504-eb07a280564d",
     "5439de5d-28b8-49e0-b25a-f65b4713e457",
-    "50662cde-9dbf-4a42-b123-772a2d3b8039",
+    "6b19de6d-a500-464e-94ca-136d3f723dac",
+    "55f9e321-5369-4c75-a86f-016e21491ab0",
     "512f04a7-12cc-4509-bdce-2341253ecd4e",
-    "55f9e321-5369-4c75-a86f-016e21491ab0"
+    "a542ddbf-8915-4a5d-8074-843b02a2f1f4",
+    "4e348e09-d89a-4104-8723-68b87afc00f8",
+    "50662cde-9dbf-4a42-b123-772a2d3b8039",
+    "6e8b5492-ea7b-4979-a775-f4201b85e8aa"
   ],
   "history": [
     {
@@ -315,7 +317,25 @@
         "formularioPrincipal": false
       },
       "detected_at": "12/11/2026 23:44:09"
+    },
+    {
+      "type": "publicacao",
+      "item": {
+        "id": 70979,
+        "nome": "13/11/2026 - Edital de Reaprazamento do Teste de Aptidão Física - Concurso Público nº 002/2026",
+        "url": "https://arquivos-site.avalia.org.br/publicacoes/8205def8-2a25-4c16-beda-57b77e673a81.pdf"
+      },
+      "detected_at": "13/11/2026 18:46:33"
+    },
+    {
+      "type": "publicacao",
+      "item": {
+        "id": 70978,
+        "nome": "13/11/2026 - COMUNICADO - Reaprazamento do Teste de Aptidão Física - Concurso Público nº 002/2026",
+        "url": "https://arquivos-site.avalia.org.br/publicacoes/ff8e0ee6-dfb1-4989-a22b-4bb3286fe380.pdf"
+      },
+      "detected_at": "13/11/2026 18:46:33"
     }
   ],
-  "last_checked": "13/11/2026 11:47:22"
+  "last_checked": "13/11/2026 19:00:04"
 }
