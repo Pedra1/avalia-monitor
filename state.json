@@ -16,6 +16,10 @@
     66853,
     63784,
     65705,
+    71210,
+    71211,
+    71212,
+    71209,
     65071,
     65072,
     65073,
@@ -63,15 +67,16 @@
     70780
   ],
   "known_links": [
-    "512f04a7-12cc-4509-bdce-2341253ecd4e",
-    "a542ddbf-8915-4a5d-8074-843b02a2f1f4",
-    "5439de5d-28b8-49e0-b25a-f65b4713e457",
-    "4e348e09-d89a-4104-8723-68b87afc00f8",
     "50662cde-9dbf-4a42-b123-772a2d3b8039",
-    "6e8b5492-ea7b-4979-a775-f4201b85e8aa",
-    "2003730f-a643-4598-a504-eb07a280564d",
+    "6b19de6d-a500-464e-94ca-136d3f723dac",
     "55f9e321-5369-4c75-a86f-016e21491ab0",
-    "6b19de6d-a500-464e-94ca-136d3f723dac"
+    "5439de5d-28b8-49e0-b25a-f65b4713e457",
+    "2003730f-a643-4598-a504-eb07a280564d",
+    "512f04a7-12cc-4509-bdce-2341253ecd4e",
+    "4e348e09-d89a-4104-8723-68b87afc00f8",
+    "6e8b5492-ea7b-4979-a775-f4201b85e8aa",
+    "bf43af71-a006-4a5e-a73c-255a2ffccc3b",
+    "a542ddbf-8915-4a5d-8074-843b02a2f1f4"
   ],
   "history": [
     {
@@ -335,7 +340,54 @@
         "url": "https://arquivos-site.avalia.org.br/publicacoes/ff8e0ee6-dfb1-4989-a22b-4bb3286fe380.pdf"
       },
       "detected_at": "13/11/2026 18:46:33"
+    },
+    {
+      "type": "publicacao",
+      "item": {
+        "id": 71212,
+        "nome": "17/11/2026 - Republicação - Anexo II do Edital de convocação para o Teste de Aptidão Física - Policial Penal - Concurso Público nº 002/2026",
+        "url": "https://arquivos-site.avalia.org.br/publicacoes/4e106c80-68b3-4c15-9d66-1699bd30b85d.pdf"
+      },
+      "detected_at": "17/11/2026 19:16:17"
+    },
+    {
+      "type": "publicacao",
+      "item": {
+        "id": 71211,
+        "nome": "17/11/2026 - Republicação - Anexo I do Edital de convocação para o Teste de Aptidão Física - Policial Penal - Concurso Público nº 002/2026",
+        "url": "https://arquivos-site.avalia.org.br/publicacoes/9484af90-4a49-4508-b82d-e090ae23d008.pdf"
+      },
+      "detected_at": "17/11/2026 19:16:17"
+    },
+    {
+      "type": "publicacao",
+      "item": {
+        "id": 71210,
+        "nome": "17/11/2026 - Republicação - Edital de convocação para o Teste de Aptidão Física - Policial Penal - Concurso Público nº 002/2026",
+        "url": "https://arquivos-site.avalia.org.br/publicacoes/42a41dda-bdbd-423e-a4ca-491136f078c9.pdf"
+      },
+      "detected_at": "17/11/2026 19:16:17"
+    },
+    {
+      "type": "publicacao",
+      "item": {
+        "id": 71209,
+        "nome": "17/11/2026 - Primeiro termo de retificação ao Edital de Abertura - Concurso Público nº 002/2026",
+        "url": "https://arquivos-site.avalia.org.br/publicacoes/047cd48c-d6df-4bb1-80f5-079dbad2de4c.pdf"
+      },
+      "detected_at": "17/11/2026 19:16:17"
+    },
+    {
+      "type": "link",
+      "item": {
+        "nome": "SOLICITAÇÃO DE ADAPTAÇÕES PARA O TESTE DE APTIDÃO FÍSICA - Apenas candidatos com reserva de vagas PCD",
+        "url": "https://link.avalia.org.br/open-link?identificador=bf43af71-a006-4a5e-a73c-255a2ffccc3b",
+        "identificador": "bf43af71-a006-4a5e-a73c-255a2ffccc3b",
+        "categoria": null,
+        "formularioPrincipal": false
+      },
+      "detected_at": "17/11/2026 19:16:17"
     }
   ],
-  "last_checked": "17/11/2026 10:39:36"
+  "last_checked": "17/11/2026 19:29:45"
 }
